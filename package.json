@@ -34,7 +34,7 @@
     "gulp-replace": "^1.0.0",
     "gulp-sass": "^4.0.1",
     "gulp-sourcemaps": "^2.6.4",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "js-yaml": "^3.13.1",
     "lazyload": "^2.0.0-rc.2",
     "leaflet": "^1.5.1",
