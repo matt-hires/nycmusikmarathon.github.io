@@ -5,16 +5,14 @@ de:
     sign_up: "Workshop Anmeldung"
     tickets: "Festivaltickets"
   navigation:
-# Martin
+    overview_id: "uebersicht"
+    overview_title: "Übersicht"
     festival_id: "festival"
     festival_title: "Festival"
     workshop_id: "workshop"
     workshop_title: "Workshop"
     famtag_id: "familienmusiktag"
     famtag_title: "Familienmusiktag"
-
-    overview_id: "uebersicht"
-    overview_title: "Übersicht"
     tutors_id: "dozenten"
     tutors_title: "Dozenten"
     howitworks_id: "ablauf"
@@ -73,16 +71,14 @@ en:
     sign_up: "Sign up"
     tickets: "Tickets"
   navigation:
-# Martin
+    overview_id: "overview"
+    overview_title: "Overview"
     festival_id: "festival"
     festival_title: "Festival"
     workshop_id: "workshop"
     workshop_title: "Workshop"
     famtag_id: "familienmusiktag"
     famtag_title: "Familienmusiktag"
-
-    overview_id: "overview"
-    overview_title: "Overview"
     tutors_id: "tutors"
     tutors_title: "Tutors"
     howitworks_id: "how-it-works"
