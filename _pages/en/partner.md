@@ -1,9 +1,9 @@
 ---
-permalink: /sponsors/
+permalink: /partner/
 language: en 
 layout: page
-title: Sponsors
-ref: sponsors
+title: Partner
+ref: partner
 menu: main,footer
 order: 4
 ---
