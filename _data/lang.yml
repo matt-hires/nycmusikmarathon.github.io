@@ -5,6 +5,7 @@ de:
     sign_up: "Workshop Anmeldung"
     tickets: "Festivaltickets"
   navigation:
+    # about us
     overview_id: "uebersicht"
     overview_title: "Übersicht"
     festival_id: "festival"
@@ -13,12 +14,9 @@ de:
     workshop_title: "Workshop"
     famtag_id: "familienmusiktag"
     famtag_title: "Familienmusiktag"
-    tutors_id: "dozenten"
-    tutors_title: "Dozenten"
-    howitworks_id: "ablauf"
-    howitworks_title: "Ablauf"
     contact_id: "kontakt"
     contact_title: "Kontakt"
+    # festival
     lineup_id: "programm"
     lineup_title: "Programm"
     dates_id: "termine"
@@ -29,8 +27,15 @@ de:
     locations_title: "Locations"
     gallery_id: "galerie"
     gallery_title: "Galerie"
-    classes_id: "kurse"
-    classes_title: "Kurse"
+    # workshop
+    instrumental_id: "instrumental"
+    instrumental_title: "Instrumental"
+    voiceonstage_id: "yourvoiceonstage"
+    voiceonstage_title: "Your Voice On Stage"
+    gospel_id: "gospel"
+    gospel_title: "Gospelworkshop"
+    tutors_id: "dozenten"
+    tutors_title: "Dozenten"
     schedule_id: "plan"
     schedule_title: "Plan"
     testimonials_id: "referenzen"
@@ -41,11 +46,15 @@ de:
     scholarship_title: "Stipendium"
   workshop:
     classes:
-      ensemble_title: "Ensembleunterricht"
-      masterclass_title: "Masterclasses"
-      instrument_title: "Instrumentalunterricht"
-      advanced_singers_title: "Advanced Singers"
-      gospel_title: "Rise Up Gospel Workshop"
+      i_bootcamp_title: "Boot Camp"
+      i_combos_title: "Combos"
+      i_musicianstalk_title: "Musicians Talk"
+      vos_coaching_title: "Coaching"
+      vos_combos_title: "Combos"
+      vos_stage_title: "Bühne"
+      g_singen_title: "Just Sing"
+      g_klatschen_title: "Rise Up! Gospelchoir"
+      g_sesselkreis_title: "Community"
     tickets:
       workshop_ticket_includes: "Teilnahme am Workhop inkl. Konzerte"
     gallery:

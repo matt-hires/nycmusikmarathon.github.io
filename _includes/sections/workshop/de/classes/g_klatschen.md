@@ -1,0 +1,1 @@
+##### Sei Teil des Gospelchors und lass dich von der positiven Welle mittragen bis ins großartige Finale im Abschlusskonzert
