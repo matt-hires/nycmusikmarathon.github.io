@@ -44,6 +44,8 @@ de:
     activities_title: "Aktivitäten"
     scholarship_id: "stipendium"
     scholarship_title: "Stipendium"
+    workshopdetails_id: "workshopdetails"
+    workshopdetails_title: "Workshopdetails"
   workshop:
     classes:
       i_bootcamp_title: "Boot Camp"
