@@ -59,6 +59,9 @@ de:
       g_sesselkreis_title: "Community"
     tickets:
       workshop_ticket_includes: "Teilnahme am Workhop inkl. Konzerte"
+      ws_earlybird_price: "Early Bird Special bis 15. Juni: 225€"
+      ws_students_price: "Schüler / Studenten: 189€"
+      ws_festivalpass_price: "Eintritt zu allen Konzerten"
     gallery:
       workshop_1_caption: "Ensembleunterricht"
       workshop_1_description: "Ensembleunterricht"
