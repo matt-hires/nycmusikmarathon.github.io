@@ -36,6 +36,8 @@ de:
     gospel_title: "Gospelworkshop"
     tutors_id: "dozenten"
     tutors_title: "Dozenten"
+    dailyroutine_id: "tagesablauf"
+    dailyroutine_title: "Tagesablauf"
     schedule_id: "plan"
     schedule_title: "Plan"
     testimonials_id: "referenzen"
