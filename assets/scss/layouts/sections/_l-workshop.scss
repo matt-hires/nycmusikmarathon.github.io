@@ -5,6 +5,22 @@
 /*******************/
 /* classes section */
 /*******************/
+.c-section-workshop-classes-modules-title {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: $primary-color;
+}
+
+.c-section-workshop-classes-module {
+  border-radius: rem-calc(5);
+  background-color: $light-gray;
+}
+
+.c-section-workshop-classes-modules-description {
+  text-align: center;
+}
 
 .c-section-workshop-classes-class-title {
   height: 10%;
