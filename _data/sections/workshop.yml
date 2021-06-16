@@ -34,6 +34,7 @@
             height: "400px"
             width: "600px"
     - title: "voiceonstage_title"
+      bigtitle: "für VokalistInnen"
       description: "voiceonstage.md"
       classes:
         - description: "vos_coaching.md"

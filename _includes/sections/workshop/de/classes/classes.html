@@ -2,6 +2,9 @@
   <div class="c-section-workshop-classes-module">
     <br>
     <!-- title & description -->
+    {% if module.bigtitle %}
+      <h3 class="c-section-workshop-classes-modules-title">{{module.bigtitle}}</h3>
+    {%endif%}
     {% assign module_title = site.data.lang[page.language].workshop.classes[{{module.title}}] %}
     {% capture module_description %}{% include sections/{{ page.section }}/{{ page.language }}/{{ section.folder }}/{{ module.description }} %}{% endcapture %}
     <h3 class="c-section-workshop-classes-modules-title">{{ module_title }}</h3>
