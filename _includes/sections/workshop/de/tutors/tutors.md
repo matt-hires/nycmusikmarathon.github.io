@@ -1,1 +1,1 @@
-#### Wir freuen uns mit internationalen Musikern zusammenzuarbeiten, welche uns als (Gast-)Dozenten in unserem Seminar jährlich begleiten.
+#### Unser internationales DozentInnenteam ist fachlich und persönlich ein wertvoller Bestandteil unserer Workshops, steht euch als Inspirations-und Wissensquelle zur Verfügung und freut sich auf euch!

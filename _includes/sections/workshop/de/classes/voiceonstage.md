@@ -1,1 +1,1 @@
-#### Rücke im Gesangsworkshop Herz und Seele ins Zentrum der Musik
+#### Für alle, die gerne als LeadsängerIn auf der Bühne stehen, eigene Songs ausprobieren und ihre Bühnenpräsenz steigern wollen

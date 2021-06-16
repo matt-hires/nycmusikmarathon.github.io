@@ -1,1 +1,1 @@
-##### Sei Teil des Gospelchors und lass dich von der positiven Welle mittragen bis ins großartige Finale im Abschlusskonzert
+##### Lass dich als Teil des Inspirational Gospel & Music Choir von den "good vibes & music making" bei diesem Workshop beflügeln und begeistern

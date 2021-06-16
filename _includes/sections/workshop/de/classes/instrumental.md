@@ -1,1 +1,1 @@
-#### Egal welches Instrument du spielst, bei uns bekommst du individuelles Coaching im "New York" Style
+#### Beim Boot Camp deine Fähigkeiten am Instrument entdecken & erweitern<br>In der Combo diese austesten & Spaß haben<br>Beim Musicians Talk Antworten auf deine Fragen bekommen

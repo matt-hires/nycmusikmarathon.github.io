@@ -1,4 +1,4 @@
-## **Module für InstrumentalistInnen**
+## **Der Workshop für InstrumentalistInnen**<br> besteht aus 3 Modulen:
 * ##### **Boot Camp** - für Fertigkeit und Technik, Phrasierung, Groove, Improvisation und Ausdruckskraft!
 * ##### **Combos** - sammle spannende Praxiserfahrung mit gleichgesinnten MusikerInnen und DozentInnen in Combos verschiedener Stilrichtungen und Levels.
 * ##### **Musicians Talk** - Arrangieren, Komposition, Business of Music und Fragen, die du Profis über alles was mit dem Musikerdasein zu tun hat, schon immer stellen wolltest!

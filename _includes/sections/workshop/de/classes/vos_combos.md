@@ -1,1 +1,1 @@
-##### Gemeinsam mit den Instrumentalisten in den Combos zusammenarbeiten
+##### Coaching beim Singen mit Band
