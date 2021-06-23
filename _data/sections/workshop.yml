@@ -129,13 +129,6 @@
   folder: "dailyroutine"
   descriptions:
     main: "dailyroutine.md"
-#- id: "schedule_id"
-#  title: "schedule_title"
-#  folder: "schedule"
-#  location: "LMS Mattighofen"
-#  descriptions:
-#    main: "schedule.md"
-#  content: "schedule.html"
 - id: "tickets_id"
   title: "tickets_title"
   folder: "tickets"
@@ -166,6 +159,9 @@
   folder: "scholarship"
   descriptions:
     main: "scholarship.md"
+  deadline: 
+    format: "{{ section.deadline.date | date: \"%d.%m.%Y\" }}"
+    date: "2021-06-30"
 - id: "testimonials_id"
   title: "testimonials_title"
   folder: "testimonials"
