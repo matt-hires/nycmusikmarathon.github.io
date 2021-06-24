@@ -1,14 +1,20 @@
+{% assign var1 = 0 %}
+
 {% for module in section.modules %}
-  <div class="c-section-workshop-classes-module">
+  {% case var1 %}
+    {% when 0 %}
+      <div class="c-section-workshop-modules-border-up">
+    {% when 1 %}
+      <div class="c-section-workshop-modules-border-mid">
+    {% when 2 %}
+      <div class="c-section-workshop-modules-border-down">
+  {% endcase %}  
+  {% assign var1 = var1 | plus: 1 %}
+
     <br>
-    <!-- title & description -->
-    {% if module.bigtitle %}
-      <h3 class="c-section-workshop-classes-modules-title">{{module.bigtitle}}</h3>
-    {%endif%}
-    {% assign module_title = site.data.lang[page.language].workshop.classes[{{module.title}}] %}
+    <!-- description -->
     {% capture module_description %}{% include sections/{{ page.section }}/{{ page.language }}/{{ section.folder }}/{{ module.description }} %}{% endcapture %}
-    <h3 class="c-section-workshop-classes-modules-title">{{ module_title }}</h3>
-    <div class="c-section-workshop-classes-modules-description"> {{ module_description | markdownify }}</div>
+    <div class="c-section-workshop-classes-class-description"> {{ module_description | markdownify }}</div>
     
     <div class="grid-container">
       <div class="grid-x grid-padding-x grid-padding-y large-up-{{section.classes-in-row}} medium-up-{{section.classes-in-row}} small-up-1">

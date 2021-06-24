@@ -6,8 +6,7 @@
   content: "classes.html"
   classes-in-row: "3"
   modules:
-    - title: "instrumental_title"
-      description: "instrumental.md"
+    - description: "instrumental.md"
       classes:
         - description: "i_bootcamp.md"
           title: "i_bootcamp_title"
@@ -33,9 +32,7 @@
             lqip: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAcACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APibwp+3R8JPHn7J3jL4efCXxr8QfE3jvxZ4I1Hwfd6J8Z/DiXl38KINY0zxPq3/AAl9h8QJ5PG03iDxTFrei2unaZqNpDJc6Da67o8ulJBFpGqGIA/D7xv4W8deLfGni/xVbaZfLb+JvFGv+IIBK/huWUQ6zq13qMQkkfxHbPJIEuVDu1vAztlmhiJKKAf/2Q=="
             height: "400px"
             width: "600px"
-    - title: "voiceonstage_title"
-      bigtitle: " Workshops für VokalistInnen"
-      description: "voiceonstage.md"
+    - description: "voiceonstage.md"
       classes:
         - description: "vos_coaching.md"
           title: "vos_coaching_title"
@@ -61,8 +58,7 @@
             lqip: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAcACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP5o9N+Cvh7Q/Beg6hpeh3U/jfStZ/0WTVdZhvPCN/n+2k2azoEtvJcxx3t3caOTHBrGqQHSNHkhurYSziwl8yrhM1p5hNQlgamVVMPWjXq2rUsapclD2c8M03CUHF4h1Pa06FWFVUHBTjzzO/DYjJquX0anssXHO6WJwsqEH7Grl9SnGtialdYlSpxqKqmsGqUYSq0qkHX9pOnLlg9hP2WfCEqLJeeEvipBdyKr3UOjePPAlro8Nw4DTxaVbXME1zb6bHKWSxguJZZ4bURRyyPIrMeOVPMm26OKyp0W26TrYLHzrOm3eDqyhjacZVeW3tJRhCLndqEU0l3rBZW0nWwOZKs0nVVDF5dGiqj+NUYzwk5xpKV1TjOc5KFlKcndv//Z"
             height: "400px"
             width: "600px"  
-    - title: "gospel_title"
-      description: "gospel.md"
+    - description: "gospel.md"
       classes:
       - description: "g_singen.md"
         title: "g_singen_title"
