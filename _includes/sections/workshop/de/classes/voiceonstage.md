@@ -1,1 +1,1 @@
-#### Für alle, die gerne als LeadsängerIn auf der Bühne stehen, eigene Songs ausprobieren und ihre Bühnenpräsenz steigern wollen
+##### Für alle, die gerne als LeadsängerIn auf der Bühne stehen, eigene Songs ausprobieren und ihre Bühnenpräsenz steigern wollen

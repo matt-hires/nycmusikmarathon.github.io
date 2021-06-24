@@ -34,7 +34,7 @@
             height: "400px"
             width: "600px"
     - title: "voiceonstage_title"
-      bigtitle: "für VokalistInnen"
+      bigtitle: " Workshops für VokalistInnen"
       description: "voiceonstage.md"
       classes:
         - description: "vos_coaching.md"
@@ -124,11 +124,6 @@
         file: "greg-nagorski.jpg"
         lqip: "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAf/AABEIAAoACgMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/APz98Jf8E29a8U/sEfBDxD8TPg54S8A+Pfh3EfHY1SLQtEufFOqeF/FutQ2scHxFsbDw+dZ1srp+q6X41m0rxFJ4gtfDp0qPQr63sI9e8QLpn5lnVHOsPjMyx2WZpUnhMxrUMtnhfa4uNehi6nIqLwam6VOm5ezqYaNXDYim39ahKMlWhRhU+zwOe8NZhlGEyqvgaNDM8mVfHyx8qdCNDFYSMnGtDEVKSlXqxU69Gry1qFV01hp8qdGpUqRi1f8A4IcfETUNW1S/07wJ8AtR0+91G9u7HUNH/a88G+H9Jv7O5uZZrW80vQdQ8O2t/omnXUDpPZaRe21vd6bbPFZ3MEM0Lxr7GDzZU8HhIVMdm8pww1CE5YrKZLEynGlFSeJT9o1XbTdZOpNqpze/Ld/J1sTQlVqyVKhFSqTko0ZqVKKcm0qUlOKlTW0JKMU42fKtj+sr9miwsfEP7EHwbfX7K01x9U8B/shvqbavbw6k2ovd6v4BuLt79r1Jjdvc3DNPcNcGQzTM0shZyWr6mtGLp4mDjFwlUjzQaTi/3+EWsdnp3R8Fh9MyptaNV6sU1o1G1dcqa1StpZaWPv7UvBHgy51C/uLjwj4YuLi4vbqaeebQNKlmmmlnd5ZZZXtGeSWR2Z5JHZnd2LMSSTX5djG44vFRi3GMcTXjGMXaMYqrJJJLRJLRJaJaI+tg3yR1fwx6vsj/AP/Z"
       description: "greg-nagorksi.md"
-- id: "dailyroutine_id"
-  title: "dailyroutine_title"
-  folder: "dailyroutine"
-  descriptions:
-    main: "dailyroutine.md"
 - id: "tickets_id"
   title: "tickets_title"
   folder: "tickets"
@@ -207,13 +202,3 @@
       title: "Workshop 3"
     - image: "/assets/img/workshops/workshop_4.jpg"
       title: "Workshop 4"
-- id: "workshopdetails_id"
-  title: "workshopdetails_title"
-  folder: "workshopdetails"
-  descriptions:
-    main: "workshopdetails.md"
-  content: "workshopdetails.html"
-  ws_details:
-    - description: "instrumental.md"
-    - description: "voiceonstage.md"
-    - description: "gospel.md"

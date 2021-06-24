@@ -1,1 +1,1 @@
-### Unser Workshopangebot
+##### **Die Workshops können während der [Online-Anmeldung](/workshop/#tickets) ausgesucht werden**
