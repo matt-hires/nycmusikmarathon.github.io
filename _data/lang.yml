@@ -32,14 +32,17 @@ de:
     modules_title: "Module"
     tutors_id: "dozenten"
     tutors_title: "Dozent_Innen"
-    dailyroutine_id: "tagesablauf"
-    dailyroutine_title: "Tagesablauf"
     testimonials_id: "referenzen"
     testimonials_title: "Referenzen"
     activities_id: "aktivitaeten"
     activities_title: "Aktivitäten"
+    # workshopdetails
+    dailyroutine_id: "tagesablauf"
+    dailyroutine_title: "Tagesablauf"
     workshopdetails_id: "workshopdetails"
     workshopdetails_title: "Workshopdetails"
+    faq_id: "faq"
+    faq_title: "FAQ"
   workshop:
     classes:
       instrumental_title: "Workshop für InstrumentalistInnen"
