@@ -46,3 +46,9 @@
     <br>
   </div>
 {% endfor %}
+
+<br>
+{% assign details_info = site.data.lang[page.language].workshop.classes[{{section.details}}] %}
+{% assign details_link = site.pages | where:"language", page.language | where:"ref", "workshopdetails" | first %}
+<a class="c-section-workshop-classes-class-description" href="{{ details_link.permalink | relative_url}}">
+  <h4 class="c-section-workshop-classes-class-description">{{ details_info }}</h4></a>

@@ -5,6 +5,7 @@
     main: "modules.md"
   content: "classes.html"
   classes-in-row: "3"
+  details: "details_info"
   modules:
     - description: "instrumental.md"
       classes:
