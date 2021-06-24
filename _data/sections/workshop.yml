@@ -154,14 +154,12 @@
         regular: "40€"
       includes:
         - item: "ws_festivalpass_price"
-- id: "scholarship_id"
-  title: "scholarship_title"
-  folder: "scholarship"
-  descriptions:
-    main: "scholarship.md"
-  deadline: 
-    format: "{{ section.deadline.date | date: \"%d.%m.%Y\" }}"
-    date: "2021-06-30"
+  scholarship:
+    headline: "scholarship_title"
+    description: "scholarship.md"
+    deadline: 
+      format: "{{ section.scholarship.deadline.date | date: \"%d.%m.%Y\" }}"
+      date: "2021-06-30"
 - id: "testimonials_id"
   title: "testimonials_title"
   folder: "testimonials"

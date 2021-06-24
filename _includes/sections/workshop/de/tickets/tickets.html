@@ -24,6 +24,15 @@
           </div>
         </div>
       {% endfor %}
+
+      {% if section.scholarship %}
+        {% capture schol_desc %}{% include sections/{{ page.section }}/{{ page.language }}/{{ section.folder }}/{{ section.scholarship.description }} %}{% endcapture %}
+        {% assign schol_title = site.data.lang[page.language].workshop.tickets[{{section.scholarship.headline}}] %}
+        <div class="cell auto">
+          <h3>{{ schol_title }}</h3>
+          {{ schol_desc | markdownify }}
+        </div>
+      {% endif %}
     </div>
   </div>
 </div>

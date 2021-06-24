@@ -38,8 +38,6 @@ de:
     testimonials_title: "Referenzen"
     activities_id: "aktivitaeten"
     activities_title: "Aktivitäten"
-    scholarship_id: "stipendium"
-    scholarship_title: "Stipendium"
     workshopdetails_id: "workshopdetails"
     workshopdetails_title: "Workshopdetails"
   workshop:
@@ -57,10 +55,10 @@ de:
       g_klatschen_title: "Gemeinsam auf der Bühne stehen"
       g_sesselkreis_title: "Musik miteinander teilen"
     tickets:
-      workshop_ticket_includes: "Teilnahme am Workhop inkl. Konzerte"
       ws_earlybird_price: "Early Bird Special bis 15. Juni: 225€"
       ws_students_price: "Schüler / Studenten: 189€"
       ws_festivalpass_price: "Eintritt zu allen Konzerten"
+      scholarship_title: "Stipendium"
     gallery:
       workshop_1_caption: "Ensembleunterricht"
       workshop_1_description: "Ensembleunterricht"
