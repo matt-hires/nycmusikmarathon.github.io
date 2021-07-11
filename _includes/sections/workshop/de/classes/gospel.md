@@ -1,1 +1,1 @@
-#### Workshop2 - Inspirational Gospel and Music Choir
+#### Workshop 2 - Inspirational Gospel and Music Choir

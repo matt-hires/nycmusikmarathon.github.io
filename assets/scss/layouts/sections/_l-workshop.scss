@@ -3,20 +3,22 @@
 /****************************/
 
 /*******************/
-/* classes section */
+/* modules section */
 /*******************/
-.c-section-workshop-modules-border-up {
-  border-radius: rem-calc(5) rem-calc(5) 0 0;
-  background-color: $light-gray;
-}
 
-.c-section-workshop-modules-border-mid {
-  background-color: $medium-gray;
-}
-
-.c-section-workshop-modules-border-down {
-  border-radius: 0 0 rem-calc(5) rem-calc(5);
-  background-color: $light-gray;
+.c-section-workshop-modules {
+  .c-section-parent-container:nth-child(odd) {
+    background-color: $light-gray;
+  }
+  .c-section-parent-container:nth-child(even) {
+    background-color: $medium-gray;
+  }
+  .c-section-parent-container:first-of-type {
+    border-radius: rem-calc(5) rem-calc(5) 0 0;
+  }
+  .c-section-parent-container:last-of-type {
+    border-radius: 0 0 rem-calc(5) rem-calc(5);
+  }
 }
 
 .c-section-workshop-classes-class-title {
@@ -167,6 +169,7 @@
 /*  ws_details section  */
 /************************/
 
-.c-section-wsdetails-description{
+.c-section-wsdetails-description {
   text-align: justify;
+  padding-bottom: rem-calc(20);
 }
